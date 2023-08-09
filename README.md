@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+![00009-1476433907 (1)](https://github.com/gglaine/gglaine/assets/11638637/cc1fcebd-28e2-46d9-aeef-071efebdbdff)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
