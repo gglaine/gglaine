@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gglaine/gglaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ![00009-1476433907 (1)](https://github.com/gglaine/gglaine/assets/11638637/cc1fcebd-28e2-46d9-aeef-071efebdbdff)
 
 
@@ -16,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
