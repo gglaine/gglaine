@@ -1,5 +1,5 @@
 
-### Hi, I'm Guillaume 👋👋👋👋👋👋👋
+### Hi and welcome, I'm Guillaume 👐
 
 - 🔭 I’m currently working on making the web a better place
 - 🌱 I’m currently learning AI model training with StableDiffusion
