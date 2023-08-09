@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![00009-1476433907 (1)](https://github.com/gglaine/gglaine/assets/11638637/cc1fcebd-28e2-46d9-aeef-071efebdbdff)
+![00009-1476433907 (1)](https://github.com/gglaine/gglaine/assets/11638637/96cb3371-ea1a-4aa1-8577-4c5b4a038da6)
 
 
 - 🔭 I’m currently working on ...
