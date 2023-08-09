@@ -1,7 +1,8 @@
 
-### Hi there 👋
-🔭 I’m currently working on making the web a better place
-🌱 I’m currently learning AI model training with StableDiffusion
+### Hi, I'm Guillaume 👋👋👋👋👋👋👋
+
+- 🔭 I’m currently working on making the web a better place
+- 🌱 I’m currently learning AI model training with StableDiffusion
 
 👯 I’m looking to collaborate on ... cool projects
 - 📫 How to reach me: guillaumelaine.com / linkedin
